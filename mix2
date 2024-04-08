@@ -1,4 +1,16 @@
-#EXTINF:-deepto
-https://tv5.hoichoi24.com/1105/tracks-v1a1/mono.m3u8
-#EXTINF:-Ekushe tv
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-Gtv
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+#EXTINF:-Tsports
+https://live-cdn.tsports.com/live-02/index.m3u8
+#EXTINF:-Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-Sananda Tv
+https://fr.tvanondo.online/sananda/video.m3u8
+#EXTINF:-Sun Bangla Cinema
+https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+#EXTINF:-Etv Bangla
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-Ktv
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+#EXTINF:-Deshi Tv
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
